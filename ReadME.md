@@ -1,10 +1,10 @@
 # Hey there, I'm Sarthak Mehta 👋
 
-🚀 I like building robots
+🤖  I'm passionate about building robots and exploring everything that brings them to life!
 
-🔭 Currently learning computer vision and Deep Learning for perception
+🔭 Currently learning computer vision and Deep Learning for perception.
 
-💡 Open to collaborate on projects involving computer vision, deep learning and/or visual servoing for manipulators.
+💡 Open to collaborating on projects involving computer vision, deep learning, and/or visual servoing for manipulators.
 
 ---
 
