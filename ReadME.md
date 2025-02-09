@@ -8,6 +8,6 @@
 
 ---
 
-### 📫 How to reach me:
+### 📫 Discuss a project or just want to say "Hi"?:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehtasarthak/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smehta1@wpi.edu)
